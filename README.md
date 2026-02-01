@@ -14,4 +14,4 @@ MENTOR: NEELA SANTOSH
 
 A Python project that automates report generation by processing data and creating structured reports, reducing manual effort and improving efficiency.
 
-[report.pdf](https://github.com/user-attachments/files/24992171/report.pdf)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/87559f1e-4306-4d19-a013-6842eb79f8e3" />
